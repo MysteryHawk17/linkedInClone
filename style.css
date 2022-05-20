@@ -1,0 +1,137 @@
+*
+{
+    /* border: 2px solid rebeccapurple; */
+}
+.logoLink
+{
+    padding-left: 10%;
+    height: 90px;
+    
+}
+body
+{
+    background-color: rgb(234, 232, 232);
+}
+.mb
+{
+    text-align: center;
+    font-size: 15px;
+    /* font-style: Roboto; */
+
+}
+.tnc
+{
+    font-size: small;
+    padding-left: 25px;
+}
+.pol
+{
+    text-decoration: none;
+    color: rgba(22, 22, 236, 0.95);
+}
+.pol:hover
+{
+    color: rgb(73, 2, 145);
+    text-decoration: underline;
+}
+.or
+{
+    display: flex;
+}
+.SignUpPanel
+{
+    border-radius: 15px;
+    margin: 0px 550px 0px 550px;
+    padding: 10px 10px 10px 40px;
+    /* background-color: rgb(212, 206, 206); */
+    background-color: white;
+}
+.emailPhone
+{
+    width: 300px;
+    height: 20px;
+    margin-top: 2px;
+}
+.password
+{
+    
+    width: 300px;
+    height: 20px;
+}
+.butt
+{
+    background-color: rgba(0, 0, 255, 0.566);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 120px 10px 120px;   
+}
+.butt:hover
+{
+    cursor: pointer;
+}
+.google
+{
+    display: flex;
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid grey;
+    padding: 10px 85px 10px 85px;   
+}
+.google:hover
+{
+    cursor: pointer;
+}
+.signnin
+{
+    text-decoration: none;
+    color: rgba(22, 22, 236, 0.95);
+}
+.signnin:hover
+{
+    color: rgb(73, 2, 145);
+    text-decoration: underline;
+}
+.g
+{
+    padding-left: 5px;
+    
+}
+.goog
+{
+    width: 15px;
+}
+
+.lin{
+    text-align: center;
+}
+.helppp
+{
+text-align: center;
+}
+.help
+{
+    text-decoration: none;
+}
+.help:hover
+{
+    text-decoration: underline;
+}
+.foot
+{
+    background-color: white;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.foot ul
+{
+    display: flex;
+    padding-left: 125px;
+    list-style: none;
+}
+.foot ul li
+{
+    padding-left: 30px;
+    font-size: 15px;
+    
+}
