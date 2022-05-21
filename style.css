@@ -4,8 +4,9 @@
 }
 .logoLink
 {
-    padding-left: 10%;
-    height: 90px;
+    padding-left: 13%;
+    margin-top:15px ;
+    height: 35px;
     
 }
 body
@@ -60,7 +61,8 @@ body
 }
 .butt
 {
-    background-color: rgba(0, 0, 255, 0.566);
+    /* background-color: rgba(0, 0, 255, 0.566); */
+    background-color: blue;
     color: white;
     border-radius: 15px;
     padding: 10px 120px 10px 120px;   
@@ -68,6 +70,7 @@ body
 .butt:hover
 {
     cursor: pointer;
+    background-color: rgb(55, 43, 226);
 }
 .google
 {
@@ -119,9 +122,10 @@ text-align: center;
 .foot
 {
     background-color: white;
-    margin-top: 15px;
+    margin-top: 75px;
     padding-bottom: 15px;
-    padding-top: 15px;
+    /* padding-top: 15px; */
+    
 }
 .foot ul
 {
@@ -134,4 +138,14 @@ text-align: center;
     padding-left: 30px;
     font-size: 15px;
     
+}
+.foot ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+.foot ul li a:hover
+{
+    text-decoration: underline;
+    color: rgba(41, 41, 191, 0.874);
 }
